@@ -1,8 +1,8 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/cpuguy83/go-md2man/v2 v2.0.1 h1:r/myEWzV9lfsM1tFLgDyu0atFtJ1fXn261LKYj/3DxU=
 github.com/cpuguy83/go-md2man/v2 v2.0.1/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
-github.com/kodumbeats/hex/v2 v2.0.0-20220416060255-ade035ed2464 h1:rY/DF8+6jIIesOU3ygBO+rFTCADqwhhsPrbwcvZbrjM=
-github.com/kodumbeats/hex/v2 v2.0.0-20220416060255-ade035ed2464/go.mod h1:edeTsnBc3Mi3kJubeK00nQasspCUyGVHE2bGoXq1jOc=
+github.com/kodumbeats/hex/v2 v2.0.0-20220416162642-8b21ee5a70d2 h1:BJpwWxjSPmu9Wd2mKIZT0aNHw38xY3jZTCvlrN048qA=
+github.com/kodumbeats/hex/v2 v2.0.0-20220416162642-8b21ee5a70d2/go.mod h1:edeTsnBc3Mi3kJubeK00nQasspCUyGVHE2bGoXq1jOc=
 github.com/russross/blackfriday/v2 v2.1.0 h1:JIOH55/0cWyOuilr9/qlrm0BSXldqnqwMsf35Ld67mk=
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/urfave/cli/v2 v2.4.0 h1:m2pxjjDFgDxSPtO8WSdbndj17Wu2y8vOT86wE/tjr+I=

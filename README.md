@@ -4,10 +4,22 @@ hex viewer (and eventually editor) with support for custom decoding text tables.
 
 **until this is removed, assume this is totally broken**
 
+## Use
+
+```
+# Dump hex blob with charTable applied
+#
+# blob: binary data
+# charTable: translation table alternate to ASCII
+hexen [blob] [charTable]
+
+```
+
 ## TODO
 - [x] dump hex from blobs
 - [x] wrap encoding/hex
-- [ ] data structure for charlist
-- [ ] intercept hex.Dump with charlist
+- [x] data structure for charlist
+- [x] intercept hex.Dump with charlist
+- [ ] support multi-char replacement
 - [ ] all the editor things
 

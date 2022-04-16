@@ -3,7 +3,7 @@ module github.com/kodumbeats/hexen/v2
 go 1.18
 
 require (
-	github.com/kodumbeats/hex/v2 v2.0.0-20220416060255-ade035ed2464
+	github.com/kodumbeats/hex/v2 v2.0.0-20220416162642-8b21ee5a70d2
 	github.com/urfave/cli/v2 v2.4.0
 )
 
